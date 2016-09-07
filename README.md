@@ -14,4 +14,4 @@ SuccessOrFailToast.getInstance(MainActivity.this).show("成功", SuccessOrFailTo
 SuccessOrFailToast.getInstance(MainActivity.this).show("失败", SuccessOrFailToast.STATE_FAIL);
 ```
 
- <img src="http://static.zybuluo.com/baifann/36jmv0lr5uvglp1hm98ewfv0/device-2016-09-07-161135.gif" width="240" height="400" />
+ <img src="https://github.com/Baifann/SuccessFailToast/blob/master/gif/device-2016-09-07-161135.gif" width="240" height="400" />
