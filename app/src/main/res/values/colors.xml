@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 课堂表现页面 -->
+    <color name="white">#ffffff</color>
+    <color name="white_alpha">#66ffffff</color>
+    <color name="time_top">#FEEDD3</color>
+    <color name="black">#000000</color>
+    <color name="menu_bg">#1A1E21</color>
+    <color name="gray">#33808080</color>
+    <color name="gray1">#C8C8C8</color>
+    <color name="yellow">#F9853C</color>
+    <color name="yellow_mall_item">#e8a744</color>
+    <color name="tabtxtcolor">#1e8ed4</color>
+    <color name="greentxtcolor">#1FB233</color>
+    <color name="background_normal">#fffffbf0</color>
+    <!-- 导航栏字体颜色 -->
+    <color name="titlebg">#8B8B8B</color>
+    <!-- 抬头背景色 -->
+    <color name="titlecolor">#1A1E21</color>
+    <color name="titletitlecolor">#181D20</color>
+    <!-- 标题栏颜色 -->
+    <color name="datecontent">#646464</color>
+    <color name="classroomcontent">#282828</color>
+    <color name="headText">#333333</color>
+    <color name="scoreother">#9A9A9A</color>
+    <color name="scoreothertext">#302E2F</color>
+    <color name="red">#DE4E4E</color>
+    <color name="red_cost">#ec8681</color>
+    <color name="home_menuitem_bg">#25944c</color>
+    <color name="home_menu_pressedbg">#3FAF58</color>
+    <color name="home_menu_line">#2c9f4c</color>
+    <!-- 课堂表现评价内容颜色 -->
+    <color name="transparent">#00000000</color>
+    <!-- 课堂表现评价内容颜色 -->
+    <color name="parsetext">#585858</color>
+    <!-- 点赞字体颜色 -->
+    <color name="teachername">#016D9F</color>
+    <color name="akforteacher_state">#262626</color>
+    <!-- 点赞字体颜色 -->
+    <color name="classroomtitle">#292929</color>
+    <color name="homewordtitle">#f5fbff</color>
+    <color name="homewordtime">#646464</color>
+    <color name="sigin_gray">#969696</color>
+    <color name="gray_bf">#F5F5F5</color>
+    <!-- 课堂表现标题 -->
+
+
+    <!-- 作业 -->
+    <color name="select_image_bg_defult">#E9EBEC</color>
+    <color name="select_image_text_defult">#CFD0D0</color>
+    <color name="selected_image_bg">#1EBAF3</color>
+
+    <!-- 按钮 -->
+    <color name="button_normal">#00000000</color>
+    <color name="button_pressed">#FF2572AC</color>
+    <color name="littlegray">#827B75</color>
+    <color name="blue">#ff0f81d9</color>
+    <color name="blue_schoolbus_line">#78CDFA</color>
+    <color name="lineblue">#2F8BCD</color>
+    <color name="item_bg">#F4F4F4</color>
+    <color name="home_itemdate_color">#C8C8C8</color>
+    <color name="home_itemcontent_color">#B9B9B9</color>
+    <color name="linebg">#EEEEEE</color>
+    <color name="big_bg">#F2F2F3</color>
+    <color name="line">#CBCBCB</color>
+    <color name="title_text">#333333</color>
+    <color name="road_xuntextcolor">#494949</color>
+    <color name="easy_people_bg">#3596D2</color>
+    <color name="chat_textcolor">#4682B4</color>
+    <color name="assess_bgcolor">#333333</color>
+    <color name="score_title">#1072CD</color>
+    <!-- 我的积分界面滑动文字的颜色 -->
+    <color name="gray_black">#98999a</color>
+
+    <!-- home tab 字体颜色 -->
+    <color name="tab_green">#18c225</color>
+
+    <drawable name="tab_green">#18c225</drawable>
+    <drawable name="tab_gray">#646464</drawable>
+
+    <color name="tab_gray">#646464</color>
+
+    <drawable name="home_white">#FFFFFF</drawable>
+    <drawable name="home_gray">#f0f0f0</drawable>
+
+    <!-- 品牌介绍 -->
+    <color name="text_color">#333333</color>
+    <color name="green">#3BB032</color>
+    <color name="green2">#3CB139</color>
+    <color name="green3">#44BA62</color>
+    <color name="green1">#77c999</color>
+    <color name="home_gray">#262626</color>
+    <color name="home_pressed_gray">#181818</color>
+
+    <!-- 抽屉 -->
+    <color name="sldin_defult">#0F0F0F</color>
+    <color name="sldin_pressed">#30912E</color>
+    <color name="menu_bottom_pressed">#DEFFE1</color>
+    <color name="circle_pressed">#DEFFE5</color>
+    <color name="menu_center_defult">#262626</color>
+    <color name="menu_center_pressed">#262626</color>
+    <color name="image_checked_bg">#66000000</color>
+
+    <!-- google -->
+
+    <color name="circle_background">#f2f2f2</color>
+    <color name="line_background">#cccccc</color>
+    <color name="ampm_text_color">#8c8c8c</color>
+    <color name="done_text_color_normal">#333333</color>
+    <color name="done_text_color_disabled">#CCCCCC</color>
+    <color name="numbers_text_color">#8c8c8c</color>
+    <color name="transparent_black">#7F000000</color>
+    <color name="darker_blue">#0099CC</color>
+    <color name="date_picker_text_normal">#FF999999</color>
+    <color name="calendar_header">#999999</color>
+    <color name="date_picker_view_animator">#f2f2f2</color>
+    <color name="calendar_selected_date_text">#FFD1D2D4</color>
+
+    <!-- 灰色 -->
+    <color name="bg_gray">#f6f5f4</color>
+    <color name="bg_gray_text">#a1a1a1</color>
+    <color name="bg_workbottom_grayfalse">#f5f5f5</color>
+    <color name="bg_workbottom_graytrue">#e0e0e0</color>
+    <color name="bg_workbottom_yellow">#fdd403</color>
+    <color name="dialog_bg">#70000000</color>
+    <color name="title_black">#0e000000</color>
+    <color name="divider_gray">#b6b6b6</color>
+    <color name="province_line_border">#C7C7C7</color>
+    <color name="bg_nocan_send">#4d585f</color>
+    <color name="bg_can_send">#2cb148</color>
+    <color name="bg_btn_pressed">#279a3f</color>
+    <color name="myschedule_color">#feffde</color>
+    <color name="bg_comment_color">#f6f6f6</color>
+    <color name="myscheule_monday_color">#5bc471</color>
+    <color name="myscheule_tuesday_color">#5bc471</color>
+    <color name="myscheule_wednesday_color">#5eb5e6</color>
+    <color name="myscheule_thursday_color">#ea4858</color>
+    <color name="myscheule_friday_color">#5bc471</color>
+    <color name="myscheule_saturday_color">#f09461</color>
+    <color name="myscheule_sunday_color">#5eb5e6</color>
+    <color name="homegarden_dayselector_color">#f0f0f0</color>
+    <color name="light_blue">#6593cb</color>
+    <color name="line_gary">#F5F5F5</color>
+    <!-- ui上的黄色 -->
+    <color name="yellow_toy">#f9d131</color>
+    <color name="gray_comm">#eff0f1</color>
+    <color name="yellow_warm">#fdf394</color>
+</resources>
